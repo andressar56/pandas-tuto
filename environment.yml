@@ -1,0 +1,8 @@
+name: aaaa
+channels:
+  - default
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
